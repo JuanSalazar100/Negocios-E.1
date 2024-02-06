@@ -33,3 +33,5 @@ print(f"Categoria: {cat.name}")
 for product in cat.products:
     print(f"- {product.name} (${product.price})")
     print(f"  Categoría: {product.category.name}")
+    
+    print("Prueba gitHub")
